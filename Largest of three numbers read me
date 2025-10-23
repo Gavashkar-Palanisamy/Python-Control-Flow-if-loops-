@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Largest of three numbers
+
+Concept:
+Used when multiple conditions must be checked to decide between several outcomes.
+In this program, we compare three numbers to find which one is the largest using conditional statements.
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+If a is greater than both b and c, it’s the largest.
+Else if b is greater than both a and c, it’s the largest.
+Otherwise, c is the largest.
