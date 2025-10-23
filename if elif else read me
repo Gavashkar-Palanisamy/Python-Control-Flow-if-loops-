@@ -1,0 +1,14 @@
+Python Control Flow :
+if elif else statement (simple)
+
+Tech Used :
+Lanuage : Pyhton
+Compiler : Visual Studio Code & pyhton
+
+Syntax :
+if condition1:
+    # block executes if condition1 is True
+elif condition2:
+    # block executes if condition1 is False and condition2 is True
+else:
+    # executes when all above conditions are False
