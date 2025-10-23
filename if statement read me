@@ -1,0 +1,11 @@
+Description
+This readme to show if statement syntax in python
+
+Tech Used
+Language: Python
+Complier : Visual source code & Pyhton 
+Input Example
+ax=5
+
+Output
+a is bigger than 0
