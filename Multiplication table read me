@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Multiplication table
+
+Concept:
+This program generates the multiplication table for any number entered by the user using a for loop.
+The loop runs from 1 to 10, multiplying each value by the input number.
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow :
+Run a for loop from 1 to 10 using range(1, 11).
+Multiply n with each loop variable i.
+Print the formatted multiplication statement.
