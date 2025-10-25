@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Loop with else
+
+Concept:
+The for loop goes through all elements.
+If the number is found, the break stops the loop → else is skipped.
+If the loop completes fully without break, the else executes — signaling that the item wasn’t found
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+search the number which is given as input
+if found, else with be skipped, otherwise else will execute
