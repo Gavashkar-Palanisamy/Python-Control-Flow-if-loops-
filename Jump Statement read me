@@ -1,0 +1,18 @@
+Python Control Flow :
+Title: Jump Statement
+
+Concept:
+These are special statements used to control the flow of loops in Python.
+
+break	: Exits the loop immediately when a condition is met	Stop loop when i == 3
+continue : Skips the current iteration and moves to the next one	Skip printing when i == 4
+pass	: Does nothing; used as a placeholder to avoid syntax errors
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+break → Terminates the loop.
+continue → Skips to the next iteration.
+pass → Keeps code syntactically valid without any operation.
