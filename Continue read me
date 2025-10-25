@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Continue (Skip Multiples of 5)
+
+Concept:
+The continue statement is used inside loops to skip the current iteration when a condition is True and move to the next iteration.
+In this program, all numbers that are multiples of 5 are skipped from being printed.
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+The loop runs from 1 to 49.
+When a number divisible by 5 is found (i % 5 == 0), the continue statement is triggered.
+The current iteration is skipped, and control moves to the next value of i.
