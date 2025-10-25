@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Iterating Through a List Using Index and Value
+
+Concept:
+To access both the index and the element of a list at the same time, Python provides the built-in enumerate() function.
+It returns pairs of (index, value) for each item in the iterable.
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+enumerate(lst) generates a sequence of (index, value) tuples.
+In the for loop, both index and value can be unpacked directly.
+You can also convert the enumerate object to a list using list(enumerate(lst)) for display.
