@@ -1,0 +1,15 @@
+Python Control Flow :
+Title: Patterns using nested loop
+
+Concept:
+A nested loop means one loop inside another.
+It’s used when you need to perform repeated actions within another repeated action — such as generating rows and columns for grids, tables, or patterns.
+
+Tech used :
+Language : pyhton
+Compiler : Visual Studio Code
+
+Logic Flow:
+Outer loop (i) controls the number of rows.
+Inner loop (j) controls the number of columns (how many * are printed per row).
+After completing each row, the print('') moves the cursor to the next line.	
